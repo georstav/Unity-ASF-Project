@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BlueRedSmallMarker" size="850.000000 1009.838135" />
+    <ImageTarget name="WeddingShoes" size="20.000000 26.017698" />
+    <ImageTarget name="RedMarker" size="20.000000 17.757847" />
+    <ImageTarget name="PurpleMarker" size="20.000000 23.168316" />
+    <ImageTarget name="PhotoCouple" size="20.000000 29.137056" />
+    <ImageTarget name="PhotoCamera" size="20.000000 30.355330" />
+    <ImageTarget name="Magazine" size="20.000000 27.079645" />
+    <ImageTarget name="Key" size="20.000000 15.882353" />
+    <ImageTarget name="GreenMarker" size="20.000000 22.758621" />
+    <ImageTarget name="GrayMarker" size="20.000000 17.894737" />
+    <ImageTarget name="BlueMarker" size="20.000000 19.792746" />
+    <ImageTarget name="BlackMarker" size="20.000000 18.000000" />
+    <ImageTarget name="BrownBoots" size="20.000000 27.684210" />
+  </Tracking>
+</QCARConfig>

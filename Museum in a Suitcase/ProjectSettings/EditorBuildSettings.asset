@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SCENES/Splash.unity
+    guid: 2dbad9ffb1396e847a06e9b444709bfa
+  - enabled: 1
+    path: Assets/SCENES/Flyer_3D_Models.unity
+    guid: d4cb82a263902fa4298576f0764dd43c
+  - enabled: 1
+    path: Assets/SCENES/Menu.unity
+    guid: 338b4fe09eb622f47b0beee0aa334768
+  - enabled: 1
+    path: Assets/SCENES/Information.unity
+    guid: d5f35d1cff657e347adfd489cb7ae6af
+  - enabled: 1
+    path: Assets/SCENES/Gallery.unity
+    guid: 4852d036eee5fb1418405d96d284f746
+  - enabled: 1
+    path: Assets/SCENES/Multimedia.unity
+    guid: 14bf164780ce6654592ab52622f6f83a

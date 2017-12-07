@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f89c634985c041b4b85b10978bd2c915
+timeCreated: 1508864319
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aka-AcidGR-Cyberella
+  fontNames:
+  - Aka-AcidGR-Cyberella
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
